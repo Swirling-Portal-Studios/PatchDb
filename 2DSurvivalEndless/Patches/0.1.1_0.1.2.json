@@ -1,0 +1,113 @@
+{
+    "From" : "0.1.1",
+    "To" : "0.1.2",
+    "Hash" : "x2TuqzIOmsg6/+DULkLAstvx0gk",
+    "TotalSize" : 306378,
+    "Entries" : [
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/globalgamemanagers",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:41Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/globalgamemanagers.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:42Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/level0",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:39Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/level1",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:39Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/level2",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:39Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/resources.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:42Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/resources.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:42Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets0.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:45Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets0.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:45Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets0.resource",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:45Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets1.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:45Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets2.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:01:01Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets2.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:01:01Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Assembly-CSharp.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:00:38Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "version.data",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-11 19:02:01Z",
+        "Size" : 0
+      }
+    ]
+  }
