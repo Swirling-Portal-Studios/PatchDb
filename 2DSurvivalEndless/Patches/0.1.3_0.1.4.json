@@ -1,0 +1,218 @@
+{
+    "From" : "0.1.3",
+    "To" : "0.1.4",
+    "Hash" : "Pd7LqcwLAHoGmUqh1Og8VPHB09g",
+    "TotalSize" : 7872323,
+    "Entries" : [
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/globalgamemanagers",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:47Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/globalgamemanagers.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:02Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/globalgamemanagers.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:02Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/level0",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:43Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/level1",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:45Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/level2",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:45Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/resources.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:06Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/resources.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:06Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/RuntimeInitializeOnLoads.json",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:41Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/ScriptingAssemblies.json",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:47Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets0.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:10Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets0.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:10Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets0.resource",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:10Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets1.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:10Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets2.assets",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:29Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/sharedassets2.assets.resS",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:32:29Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/AllIn1SpriteShaderAssembly.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:36Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Assembly-CSharp.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:41Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Cinemachine.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:40Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/MoreMountains.Feedbacks.URP.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:40Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/NavMeshPlusComponents.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:36Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.Postprocessing.Runtime.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:38Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:38Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:38Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:36Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:37Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:40Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 4,
+        "RelativePath" : "2D Survival Endless_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:31:36Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "version.data",
+        "Attributes" : 32,
+        "LastWriting" : "2022-02-14 22:33:19Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 1,
+        "RelativePath" : "2D Survival Endless_Data/Managed/NavMeshComponents.dll",
+        "Attributes" : 0,
+        "LastWriting" : "0001-01-01 00:00:00Z",
+        "Size" : 0
+      }
+    ]
+  }
